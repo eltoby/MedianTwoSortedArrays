@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianTwoSortedArrays.Logic", "MedianTwoSortedArrays.Logic\MedianTwoSortedArrays.Logic.csproj", "{5067F025-52DF-4286-9475-9DF6CBCCA080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedianTwoSortedArrays.Tests", "MedianTwoSortedArrays.Tests\MedianTwoSortedArrays.Tests.csproj", "{5A58F161-5A30-49AA-AA02-FC1C6C8764EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5067F025-52DF-4286-9475-9DF6CBCCA080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5067F025-52DF-4286-9475-9DF6CBCCA080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5067F025-52DF-4286-9475-9DF6CBCCA080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5067F025-52DF-4286-9475-9DF6CBCCA080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A58F161-5A30-49AA-AA02-FC1C6C8764EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A58F161-5A30-49AA-AA02-FC1C6C8764EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A58F161-5A30-49AA-AA02-FC1C6C8764EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A58F161-5A30-49AA-AA02-FC1C6C8764EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84A89D9D-9A8F-451B-9CE1-B1B148C7D2CB}
+	EndGlobalSection
+EndGlobal
